@@ -8,15 +8,10 @@
     "start": "node server.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IDRozenblad/Hot-Restaurant.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/IDRozenblad/Hot-Restaurant/issues"
-  },
-  "homepage": "https://github.com/IDRozenblad/Hot-Restaurant#readme",
   "dependencies": {
     "express": "^4.17.1",
     "path": "^0.12.7"
